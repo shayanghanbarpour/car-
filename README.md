@@ -5,3 +5,5 @@ lamborgini
 fiat
 hyondai
 kia
+mazda
+nissan
